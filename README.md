@@ -11,4 +11,4 @@ MS Civil & Environmental Engineering (Atmosphere/Energy), Stanford University.
   https://github.com/lucasmbll/stadium_evacuation_optim_with_flow
 
 ### Interests
-Power systems, grid planning, energy infrastructure, data-driven decision-making.
+Power systems, grid planning, nuclear energy, data-driven decision-making.

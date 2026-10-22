@@ -15,7 +15,7 @@ Optimization framework in Python for an electric race car: sequential convex pro
 - My part: energy model, Pareto analysis, battery sizing, closed-form race strategy (KKT) validated numerically
 - Pace management cuts the required battery from **37 to 25 kWh (−32%)**
 
-### 🏟️ [Stadium Evacuation as a Network Flow](https://github.com/lucasmbll/stadium_evacuation_optim_with_flow) — Ecole Polytechnique
+### 🏟️ [Stadium Evacuation as a Network Flow](https://github.com/lucasmbll/stadium_evacuation_optim_with_flow) — Ecole Polytechnique PSC MAP
 Min-cost flow on a time-expanded network for a 20,500-seat stadium, calibrated with on-site measurements.
 - Validated against the observed evacuation: **5:45 modeled vs 6:35 observed**
 

@@ -10,7 +10,7 @@ MILP capacity expansion model (Julia/JuMP, HiGHS) co-optimizing investment and h
 - Cost-optimal mix: **12.6 GW wind + 32 GWh storage (~€3B/yr), no new transmission**
 - 36 demand/cost sensitivity runs and a fossil-free scenario (cost ×2.4)
 
-### 🏎️ [EV Optimal Racing Line & Race Strategy](https://github.com/Rwin2/EV-optimal-line-racing) — Stanford AA 222 (with Erwin Poussi)
+### 🏎️ [EV Optimal Racing Line & Race Strategy](https://github.com/Rwin2/EV-optimal-line-racing) — Stanford AA 222
 Optimization framework in Python for an electric race car: sequential convex programming with a hand-coded Simplex LP solver, time–energy Pareto front, battery sizing and race strategy.
 - My part: energy model, Pareto analysis, battery sizing, closed-form race strategy (KKT) validated numerically
 - Pace management cuts the required battery from **37 to 25 kWh (−32%)**
